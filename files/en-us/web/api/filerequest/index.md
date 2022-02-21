@@ -8,6 +8,7 @@ tags:
   - Interface
   - Non-standard
   - Reference
+spec-urls: https://w3c.github.io/filesystem-api/
 ---
 {{APIRef("File System API")}} {{non-standard_header}}
 
@@ -30,9 +31,7 @@ None.
 
 ## Specifications
 
-| Specification                        | Status                           | Comment         |
-| ------------------------------------ | -------------------------------- | --------------- |
-| {{SpecName('FileSystem')}} | {{Spec2('FileSystem')}} | Draft proposal. |
+{{Specifications}}
 
 ## See also
 

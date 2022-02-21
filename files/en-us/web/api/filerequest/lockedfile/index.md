@@ -9,6 +9,7 @@ tags:
   - Property
   - Reference
   - WebAPI
+spec-urls: https://w3c.github.io/filesystem-api/
 ---
 {{APIRef("File System API")}} {{non-standard_header}}
 
@@ -29,9 +30,7 @@ A {{domxref("LockedFile")}} object.
 
 ## Specifications
 
-| Specification                        | Status                           | Comment         |
-| ------------------------------------ | -------------------------------- | --------------- |
-| {{SpecName('FileSystem')}} | {{Spec2('FileSystem')}} | Draft proposal. |
+{{Specifications}}
 
 ## See also
 

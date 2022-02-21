@@ -7,6 +7,7 @@ tags:
   - Non Standard
   - Reference
   - WebAPI
+spec-urls: https://w3c.github.io/filesystem-api/
 ---
 {{APIRef("File System API")}} {{non-standard_header}}
 
@@ -55,9 +56,7 @@ The `LockedFile` interface provides tools to deal with a given file with all the
 
 ## Specifications
 
-| Specification                        | Status                           | Comment         |
-| ------------------------------------ | -------------------------------- | --------------- |
-| {{SpecName('FileSystem')}} | {{Spec2('FileSystem')}} | Draft proposal. |
+{{Specifications}}
 
 ## See also
 

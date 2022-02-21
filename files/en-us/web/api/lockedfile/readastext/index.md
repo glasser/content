@@ -8,6 +8,7 @@ tags:
   - Non Standard
   - Reference
   - WebAPI
+spec-urls: https://w3c.github.io/filesystem-api/
 ---
 {{APIRef("File System API")}}{{non-standard_header}}
 
@@ -42,9 +43,7 @@ that have been read.
 
 ## Specifications
 
-| Specification                        | Status                           | Comment        |
-| ------------------------------------ | -------------------------------- | -------------- |
-| {{SpecName('FileSystem')}} | {{Spec2('FileSystem')}} | Draft proposal |
+{{Specifications}}
 
 ## See also
 

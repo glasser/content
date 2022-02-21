@@ -8,6 +8,7 @@ tags:
   - Property
   - Reference
   - WebAPI
+spec-urls: https://w3c.github.io/filesystem-api/
 ---
 {{APIRef("File System API")}}{{non-standard_header}}
 
@@ -28,9 +29,7 @@ A string, one of `readonly` or `readwrite`.
 
 ## Specifications
 
-| Specification                        | Status                           | Comment         |
-| ------------------------------------ | -------------------------------- | --------------- |
-| {{SpecName('FileSystem')}} | {{Spec2('FileSystem')}} | Draft Proposal. |
+{{Specifications}}
 
 ## See also
 

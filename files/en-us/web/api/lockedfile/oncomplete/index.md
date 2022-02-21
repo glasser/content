@@ -8,6 +8,7 @@ tags:
   - Property
   - Reference
   - WebAPI
+spec-urls: https://w3c.github.io/filesystem-api/
 ---
 {{APIRef("File System API")}}{{ non-standard_header }}
 
@@ -25,9 +26,7 @@ Where `funcRef` is a function to be called when the {{event("complete")}} event 
 
 ## Specifications
 
-| Specification                        | Status                           | Comment         |
-| ------------------------------------ | -------------------------------- | --------------- |
-| {{SpecName('FileSystem')}} | {{Spec2('FileSystem')}} | Draft proposal. |
+{{Specifications}}
 
 ## See also
 

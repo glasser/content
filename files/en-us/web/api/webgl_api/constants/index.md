@@ -6,6 +6,9 @@ tags:
   - Reference
   - WebGL
   - constants
+spec-urls: >-
+  https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14,
+  https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7
 ---
 {{WebGLSidebar}}
 
@@ -2014,10 +2017,7 @@ Constants passed to {{domxref("WebGLRenderingContext.texParameter", "WebGLRender
 
 ## Specifications
 
-| Specification                                                                | Status                   | Comment                       |
-| ---------------------------------------------------------------------------- | ------------------------ | ----------------------------- |
-| {{SpecName('WebGL', "#5.14", "WebGLRenderingContext")}}     | {{Spec2('WebGL')}} | Initial definition            |
-| {{SpecName('WebGL2', "#3.7", "WebGL2RenderingContext")}} | {{Spec2('WebGL2')}} | Defines additional constants. |
+{{Specifications}}
 
 ## See also
 

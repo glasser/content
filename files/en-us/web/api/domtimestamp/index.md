@@ -6,6 +6,7 @@ tags:
   - DOM
   - Interface
   - Reference
+spec-urls: https://heycam.github.io/webidl/#common-DOMTimeStamp
 ---
 {{APIRef("DOM")}}
 
@@ -13,6 +14,4 @@ The **`DOMTimeStamp`** type represents an absolute or relative number of millise
 
 ## Specifications
 
-| Specification                                                                        | Status                   | Comment               |
-| ------------------------------------------------------------------------------------ | ------------------------ | --------------------- |
-| {{SpecName("WebIDL", "#common-DOMTimeStamp", "DOMTimeStamp")}} | {{Spec2("WebIDL")}} | Initial specification |
+{{Specifications}}
