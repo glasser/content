@@ -7,7 +7,9 @@ tags:
   - Gamepad API
   - Games
   - Overview
-spec-urls: https://w3c.github.io/gamepad/extensions.html, https://w3c.github.io/gamepad/
+spec-urls:
+  - https://w3c.github.io/gamepad/extensions.html
+  - https://w3c.github.io/gamepad/
 ---
 {{securecontext_header}}{{DefaultAPISidebar("Gamepad API")}}
 

@@ -8,9 +8,9 @@ tags:
   - NeedsUpdate
   - ajax upload
   - upload
-spec-urls: >-
-  https://html.spec.whatwg.org/multipage/number-state.html#concept-input-type-file-selected,
-  https://w3c.github.io/FileAPI/
+spec-urls:
+  - https://html.spec.whatwg.org/multipage/number-state.html#concept-input-type-file-selected
+  - https://w3c.github.io/FileAPI/
 ---
 {{APIRef("File API")}}
 

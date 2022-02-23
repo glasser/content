@@ -13,9 +13,9 @@ tags:
   - Payment Method
   - Payment Request API
   - Payments
-spec-urls: >-
-  https://w3c.github.io/payment-request/,
-  https://w3c.github.io/payment-method-id/
+spec-urls:
+  - https://w3c.github.io/payment-request/
+  - https://w3c.github.io/payment-method-id/
 ---
 {{securecontext_header}}{{DefaultAPISidebar("Payment Request API")}}
 

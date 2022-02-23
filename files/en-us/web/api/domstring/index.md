@@ -6,9 +6,9 @@ tags:
   - DOM
   - Reference
   - String
-spec-urls: >-
-  https://heycam.github.io/webidl/#idl-DOMString,
-  https://heycam.github.io/webidl/#es-DOMString
+spec-urls:
+  - https://heycam.github.io/webidl/#idl-DOMString
+  - https://heycam.github.io/webidl/#es-DOMString
 ---
 {{APIRef("DOM")}}
 

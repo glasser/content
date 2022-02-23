@@ -5,10 +5,10 @@ tags:
   - Reference
   - Types
   - WebGL
-spec-urls: >-
-  https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.1,
-  https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.1,
-  https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/
+spec-urls:
+  - https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.1
+  - https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.1
+  - https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/
 ---
 {{WebGLSidebar}}
 
