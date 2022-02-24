@@ -7,8 +7,8 @@ tags:
   - Reference
   - String
 spec-urls:
-  - https://heycam.github.io/webidl/#idl-DOMString
-  - https://heycam.github.io/webidl/#es-DOMString
+  - https://webidl.spec.whatwg.org/#idl-DOMString
+  - https://webidl.spec.whatwg.org/#es-DOMString
 ---
 {{APIRef("DOM")}}
 

@@ -9,7 +9,7 @@ tags:
   - Reference
   - Web Locks API
   - lock
-spec-urls: https://wicg.github.io/web-locks/
+spec-urls: https://w3c.github.io/web-locks/
 ---
 {{SeeCompatTable}}{{APIRef("Web Locks")}}{{DefaultAPISidebar}}{{securecontext_header}}
 

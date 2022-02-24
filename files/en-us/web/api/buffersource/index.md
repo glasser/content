@@ -7,7 +7,7 @@ tags:
   - JavaScript
   - Reference
   - Typed Arrays
-spec-urls: https://heycam.github.io/webidl/#common-BufferSource
+spec-urls: https://webidl.spec.whatwg.org/#common-BufferSource
 ---
 {{APIRef}}
 

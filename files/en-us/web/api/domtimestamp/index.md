@@ -6,7 +6,7 @@ tags:
   - DOM
   - Interface
   - Reference
-spec-urls: https://heycam.github.io/webidl/#common-DOMTimeStamp
+spec-urls: https://webidl.spec.whatwg.org/#common-DOMTimeStamp
 ---
 {{APIRef("DOM")}}
 

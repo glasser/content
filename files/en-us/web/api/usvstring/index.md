@@ -8,8 +8,8 @@ tags:
   - String
   - WebIDL
 spec-urls:
-  - https://heycam.github.io/webidl/#idl-USVString
-  - https://heycam.github.io/webidl/#es-USVString
+  - https://webidl.spec.whatwg.org/#idl-USVString
+  - https://webidl.spec.whatwg.org/#es-USVString
 ---
 {{APIRef("DOM")}}
 
